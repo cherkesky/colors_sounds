@@ -3,7 +3,8 @@
 // Define a different value for each vehicle's properties.
 // Create a Drive() method in the Vehicle class.
 // Override the Drive() method in all the other vehicle classes. Include the vehicle's color in the message (i.e. "The blue Ram drives past. RRrrrrrummbbble!").
-// using System;
+
+using System;
 
 namespace colors_sounds
 {
@@ -30,14 +31,13 @@ namespace colors_sounds
 
   public class Cessna : Vehicle
   {  // Propellor light aircraft
-    public string MaximumOccupancy { get; set; }
     public void RefuelTank() { System.Console.WriteLine("Fueled"); }
     public override void Drive()
     {
       Console.WriteLine("Zoooooom!");
     }
   }
-}
+
 
 public class Tesla : Vehicle
 {  // Electric car
@@ -59,13 +59,19 @@ public class Ram : Vehicle
 }
 
 
-
-
 class Program
 {
   static void Main(string[] args)
   {
-    Console.WriteLine("Hello World!");
+      Zero motorcycle = new Zero(){MainColor="Black", MaximumOccupancy="1"};
+      Cessna cess = new Cessna(){MainColor="White", MaximumOccupancy="4"};
+      Tesla musk = new Tesla(){MainColor="Blue", MaximumOccupancy="5"};
+      Ram dixie = new Ram(){MainColor="Red", MaximumOccupancy="6"};
+
+      motorcycle.Drive();
+      cess.Drive();
+      musk.Drive();
+      dixie.Drive();
   }
 }
 }

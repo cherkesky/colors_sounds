@@ -1,0 +1,12 @@
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.csprojAssemblyReference.cache
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.csproj.CoreCompileInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.AssemblyInfoInputs.cache
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.AssemblyInfo.cs
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/bin/Debug/netcoreapp3.1/colors_sounds.deps.json
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/bin/Debug/netcoreapp3.1/colors_sounds.runtimeconfig.json
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/bin/Debug/netcoreapp3.1/colors_sounds.runtimeconfig.dev.json
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/bin/Debug/netcoreapp3.1/colors_sounds.dll
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/bin/Debug/netcoreapp3.1/colors_sounds.pdb
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.dll
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.pdb
+/Users/cherkesky/workspace/csharp/exercises/colors_sounds/obj/Debug/netcoreapp3.1/colors_sounds.genruntimeconfig.cache
